@@ -1,17 +1,19 @@
-## Kerollayne Silva 👋
+<h1 align="center">Kerollayne Silva</h1>
+<p align="center"><strong>Estudante de ADS | Explorando Desenvolvimento Web e Cloud</strong></p>
 
-<!--
-**lima-silvaa/lima-silvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+Sou uma pessoa curiosa, dedicada e em constante aprendizado. Atualmente estudando Análise e Desenvolvimento de Sistemas com interesse em front-end, back-end e DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>Oláá, me chamo Kerollayne mas pode me chamar de Kell.</h2>
+### 📫 Onde me encontrar:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerollayne-silva-a63432316)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kerollayne-Silva)
+
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="120"/>
+
+---
+
+### 🧠 Aprendizados Recentes
+- HTML e CSS
