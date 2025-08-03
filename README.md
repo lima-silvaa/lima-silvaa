@@ -9,10 +9,10 @@ I'm a curious, dedicated person who is always learning. Currently studying Syste
 ### 📫 Where to Find Me:
 
 <a href="https://linkedin.com/in/kerollayne-silva-a63432316">
-  <img scr="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:kerollaynekaren18@gmail.com">
-  <img scr="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ### 🧠 Recent Learnings:
